@@ -5,7 +5,7 @@ This repository contains Notes and Resources associated with my studies. The spe
 "Practical Ethical Hacking - The Complete Course". This is a beginner course.
 
 Search by Module # .pdf for notes, and Resource Module # for Resources
-associated with that module. 
+associated with the module #. 
 
 Modules #1-3 pdf notes do not contain much information as they are not to the "meat" of the course
 yet.
