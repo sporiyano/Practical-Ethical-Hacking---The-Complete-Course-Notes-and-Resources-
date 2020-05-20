@@ -1,7 +1,7 @@
 # Practical-Ethical-Hacking---The-Complete-Course-Notes-and-Resources-
 
 
-This repository contains Notes and Resources associated with my studies. The specified course in this repository is
+This repository contains Notes and Resources associated with my studies. I am using this to track my work for future employment. Not included are books, and hard copies of my notes and work from those books (E.g. "Linux Basics for Hackers"). The specified course in this repository is
 "Practical Ethical Hacking - The Complete Course". This is a beginner course.
 
 Search by Module # .pdf for notes, and Resource Module # for Resources
