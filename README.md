@@ -11,4 +11,4 @@ Modules #1-3 pdf notes do not contain much information as they are not to the "m
 yet.
 
 This is the first repository of many that will document my education/journey
-toward a successful career in red hat security and help give back to the hacking community.
+toward a successful career in red hat security and help give back to the infosec community.
